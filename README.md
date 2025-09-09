@@ -20,7 +20,7 @@ With a sleek UI, responsive design, and gamified quizzes, it’s perfect for lea
 
 Here’s a sneak peek of the QuizMaster App:  
 
-![QuizMaster Screenshot](https://github.com/theankits/Quizmaster_app/blob/ae9a9ee470b6ab2651f0dac08c4ccad6c3e5d0ce/Screenshot%202025-09-08%20190527.png?raw=true)
+![QuizMaster Screenshot](https://github.com/theankits/Quizmaster_app/blob/c7c789e872e41483622952b8eaa6414fc399a00e/Screenshot%202025-09-08%20190527.png?raw=true)
 
 ---
 
@@ -37,27 +37,25 @@ Here’s a sneak peek of the QuizMaster App:
 
 You can deploy QuizMaster easily on:
 
-**Vercel (Recommended)**
-**Netlify**
-**GitHub Pages**
+- **Vercel (Recommended)**  
+- **Netlify**  
+- **GitHub Pages**  
 
---- 
+---
 
 ## 👨‍💻 About the Developer
 
-Hi! I’m **Ankit** 👋
+Hi! I’m **Ankit** 👋  
 I built QuizMaster to make learning interactive, fun, and accessible for everyone.
 
-**GitHub: theankits**
+- **GitHub**: [theankits](https://github.com/theankits)  
+- **Portfolio**: Coming Soon 🚀  
 
-Portfolio (Coming Soon 🚀)
---- 
+---
 
-## License
+## 📜 License
 
-This project is licensed under the MIT License – free to use and modify.
-
-
+This project is licensed under the **MIT License** – free to use and modify.
 
 ---
 
@@ -66,6 +64,6 @@ This project is licensed under the MIT License – free to use and modify.
 **Clone the repository:**  
 ```bash
 git clone https://github.com/theankits/Quizmaster_app.git
-
-Thank you very much .
-
+cd Quizmaster_app
+npm install
+npm run dev
